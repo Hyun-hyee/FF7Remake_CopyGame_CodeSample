@@ -7,6 +7,7 @@ DirectX 11을 활용한 게임 모작 팀 프로젝트에서 기여한 영역의
 
 <br>
 
+## 💻기술 설명 영상
 [![Video Label](http://img.youtube.com/vi/oPwEHSDcpRA/0.jpg)](https://youtu.be/oPwEHSDcpRA)
 
 ## 📆제작 기간 & 참여 인원 
