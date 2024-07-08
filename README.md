@@ -1,4 +1,4 @@
-https://github.com/Hyun-hyee/FF7Remake_Dx11_CopyGame_CodeSample
+https://github.com/Hyun-hyee/FF7Remake_CopyGame_CodeSample
 
 # Final Fantasy VII Remake 모작 팀 프로젝트
 
